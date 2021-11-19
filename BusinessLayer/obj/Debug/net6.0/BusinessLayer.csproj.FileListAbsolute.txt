@@ -1,0 +1,17 @@
+d:\source\repos\CoreDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.deps.json
+d:\source\repos\CoreDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.dll
+d:\source\repos\CoreDemo\BusinessLayer\bin\Debug\net6.0\ref\BusinessLayer.dll
+d:\source\repos\CoreDemo\BusinessLayer\bin\Debug\net6.0\BusinessLayer.pdb
+d:\source\repos\CoreDemo\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+d:\source\repos\CoreDemo\BusinessLayer\bin\Debug\net6.0\EntityLayer.dll
+d:\source\repos\CoreDemo\BusinessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+d:\source\repos\CoreDemo\BusinessLayer\bin\Debug\net6.0\EntityLayer.pdb
+d:\source\repos\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.AssemblyReference.cache
+d:\source\repos\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+d:\source\repos\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfoInputs.cache
+d:\source\repos\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.AssemblyInfo.cs
+d:\source\repos\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CoreCompileInputs.cache
+d:\source\repos\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.csproj.CopyComplete
+d:\source\repos\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.dll
+d:\source\repos\CoreDemo\BusinessLayer\obj\Debug\net6.0\ref\BusinessLayer.dll
+d:\source\repos\CoreDemo\BusinessLayer\obj\Debug\net6.0\BusinessLayer.pdb

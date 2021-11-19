@@ -1,0 +1,12 @@
+d:\source\repos\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.deps.json
+d:\source\repos\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
+d:\source\repos\CoreDemo\EntityLayer\bin\Debug\net6.0\ref\EntityLayer.dll
+d:\source\repos\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+d:\source\repos\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+d:\source\repos\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+d:\source\repos\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
+d:\source\repos\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
+d:\source\repos\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.CoreCompileInputs.cache
+d:\source\repos\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.dll
+d:\source\repos\CoreDemo\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
+d:\source\repos\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb

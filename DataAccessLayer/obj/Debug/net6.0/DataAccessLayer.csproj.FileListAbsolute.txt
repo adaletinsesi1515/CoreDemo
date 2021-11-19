@@ -1,0 +1,17 @@
+d:\source\repos\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.deps.json
+d:\source\repos\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.runtimeconfig.json
+d:\source\repos\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.dll
+d:\source\repos\CoreDemo\DataAccessLayer\bin\Debug\net6.0\ref\DataAccessLayer.dll
+d:\source\repos\CoreDemo\DataAccessLayer\bin\Debug\net6.0\DataAccessLayer.pdb
+d:\source\repos\CoreDemo\DataAccessLayer\bin\Debug\net6.0\EntityLayer.dll
+d:\source\repos\CoreDemo\DataAccessLayer\bin\Debug\net6.0\EntityLayer.pdb
+d:\source\repos\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.AssemblyReference.cache
+d:\source\repos\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+d:\source\repos\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfoInputs.cache
+d:\source\repos\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.AssemblyInfo.cs
+d:\source\repos\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+d:\source\repos\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.csproj.CopyComplete
+d:\source\repos\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.dll
+d:\source\repos\CoreDemo\DataAccessLayer\obj\Debug\net6.0\ref\DataAccessLayer.dll
+d:\source\repos\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.pdb
+d:\source\repos\CoreDemo\DataAccessLayer\obj\Debug\net6.0\DataAccessLayer.genruntimeconfig.cache
