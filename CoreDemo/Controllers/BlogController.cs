@@ -2,7 +2,7 @@
 
 namespace CoreDemo.Controllers
 {
-    public class Category : Controller
+    public class BlogController : Controller
     {
         public IActionResult Index()
         {
