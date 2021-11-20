@@ -1,0 +1,3 @@
+# CoreDemo
+
+.Net Core Kampı
