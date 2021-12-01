@@ -8,15 +8,15 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoreDemo
 build_property.RootNamespace = CoreDemo
-build_property.ProjectDir = C:\Users\ab96085\source\repos\CoreDemo\CoreDemo\
+build_property.ProjectDir = C:\Users\ab96085\Source\Repos\CoreDemo\CoreDemo\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ab96085\source\repos\CoreDemo\CoreDemo
+build_property.MSBuildProjectDirectory = C:\Users\ab96085\Source\Repos\CoreDemo\CoreDemo
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/ab96085/Source/Repos/CoreDemo/CoreDemo/Views/Blog/BlogDetails.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nRGV0YWlscy5jc2h0bWw=
+[C:/Users/ab96085/Source/Repos/CoreDemo/CoreDemo/Views/Blog/BlogReadAll.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvZ1xCbG9nUmVhZEFsbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ab96085/Source/Repos/CoreDemo/CoreDemo/Views/Blog/Index.cshtml]
@@ -25,6 +25,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ab96085/Source/Repos/CoreDemo/CoreDemo/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ab96085/Source/Repos/CoreDemo/CoreDemo/Views/Comment/CommentListByBlog.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxDb21tZW50TGlzdEJ5QmxvZy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ab96085/Source/Repos/CoreDemo/CoreDemo/Views/Comment/PartialAddComment.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tbWVudFxQYXJ0aWFsQWRkQ29tbWVudC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ab96085/Source/Repos/CoreDemo/CoreDemo/Views/Home/Index.cshtml]
