@@ -15,7 +15,7 @@ namespace CoreDemo.Controllers
 
         public IActionResult BlogReadAll(int id)
         {
-            var values = bm.GetById(id);
+            var values = bm.ListAll(id);
             return View(values);
         }
 

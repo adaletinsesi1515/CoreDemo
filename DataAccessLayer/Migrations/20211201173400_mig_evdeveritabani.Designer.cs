@@ -12,8 +12,8 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace DataAccessLayer.Migrations
 {
     [DbContext(typeof(Context))]
-    [Migration("20211201090424_veritabani_olusturma")]
-    partial class veritabani_olusturma
+    [Migration("20211201173400_mig_evdeveritabani")]
+    partial class mig_evdeveritabani
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
