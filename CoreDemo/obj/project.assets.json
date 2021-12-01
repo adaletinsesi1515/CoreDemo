@@ -9589,19 +9589,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {}
+    "C:\\Users\\ab96085\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\source\\repos\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+      "projectUniqueName": "C:\\Users\\ab96085\\Source\\Repos\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
       "projectName": "CoreDemo",
-      "projectPath": "d:\\source\\repos\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "d:\\source\\repos\\CoreDemo\\CoreDemo\\obj\\",
+      "projectPath": "C:\\Users\\ab96085\\Source\\Repos\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+      "packagesPath": "C:\\Users\\ab96085\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ab96085\\Source\\Repos\\CoreDemo\\CoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ab96085\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9615,14 +9615,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "d:\\source\\repos\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "d:\\source\\repos\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\ab96085\\Source\\Repos\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\ab96085\\Source\\Repos\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "d:\\source\\repos\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "d:\\source\\repos\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\ab96085\\Source\\Repos\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\ab96085\\Source\\Repos\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "d:\\source\\repos\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "d:\\source\\repos\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\ab96085\\Source\\Repos\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\ab96085\\Source\\Repos\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }

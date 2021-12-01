@@ -12,7 +12,9 @@ namespace DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=GAME1515; database=CoreBlogDb; integrated security=true;");
+            // optionsBuilder.UseSqlServer("server=GAME1515; database=CoreBlogDb; integrated security=true;");
+             optionsBuilder.UseSqlServer("server=AB01500-5000; database=CoreBlogDb; integrated security=true;");
+
         }
 
         public DbSet<About> Abouts { get; set; }
