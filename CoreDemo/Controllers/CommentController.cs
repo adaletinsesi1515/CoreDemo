@@ -16,12 +16,7 @@ namespace CoreDemo.Controllers
         {
             return PartialView();
         }
-
-        public IActionResult CommentListByBlog(int id)
-        {
-            var values = cm.ListAll(id);
-            return PartialView(values);
-        }
+          
 
 
 
