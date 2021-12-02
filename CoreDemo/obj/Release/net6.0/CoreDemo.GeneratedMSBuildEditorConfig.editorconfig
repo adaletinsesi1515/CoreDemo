@@ -8,11 +8,11 @@ build_property.PlatformNeutralAssembly =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = CoreDemo
 build_property.RootNamespace = CoreDemo
-build_property.ProjectDir = C:\Users\ab96085\Source\Repos\CoreDemo\CoreDemo\
+build_property.ProjectDir = C:\Users\ab96085\source\repos\CoreDemo\CoreDemo\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\ab96085\Source\Repos\CoreDemo\CoreDemo
+build_property.MSBuildProjectDirectory = C:\Users\ab96085\source\repos\CoreDemo\CoreDemo
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/ab96085/source/repos/CoreDemo/CoreDemo/Views/Blog/BlogReadAll.cshtml]
