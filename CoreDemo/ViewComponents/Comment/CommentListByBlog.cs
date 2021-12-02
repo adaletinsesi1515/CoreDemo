@@ -8,9 +8,9 @@ namespace CoreDemo.ViewComponents.Comment
     {
         CommentManager cm = new CommentManager(new EfCommentRepository());
 
-        public IViewComponentResult Invoke()
-        {
-            var values = cm.ListAll(2);
+        public IViewComponentResult Invoke(int id)
+        {            
+            var values = cm.ListAll(id);
             return View(values);
         }
 
