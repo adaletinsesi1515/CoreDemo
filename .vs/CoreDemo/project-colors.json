@@ -20,7 +20,12 @@
       "ProjectGuid": "d15c7d16-fc9c-43cd-81ad-763ea3e6567b",
       "DisplayName": "BusinessLayer",
       "ColorIndex": 2
+    },
+    "f7d45244-c439-4335-9674-7e1fb0a65111": {
+      "ProjectGuid": "f7d45244-c439-4335-9674-7e1fb0a65111",
+      "DisplayName": "EntityLayer",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }
