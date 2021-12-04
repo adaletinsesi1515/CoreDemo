@@ -15,7 +15,12 @@
       "ProjectGuid": "5112f284-ddae-4e62-a77f-3338dfff0b95",
       "DisplayName": "DataAccessLayer",
       "ColorIndex": 1
+    },
+    "d15c7d16-fc9c-43cd-81ad-763ea3e6567b": {
+      "ProjectGuid": "d15c7d16-fc9c-43cd-81ad-763ea3e6567b",
+      "DisplayName": "BusinessLayer",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
