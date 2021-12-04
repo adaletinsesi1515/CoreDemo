@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "8AWENPddIqE21wgLfSpgq1VSmIHLaJJZSRtmFeYlqsq6Rk4gw3KRf1VV5ILbmvUCOtRJSLrZx8zuCsnnT+wcmw==",
+  "dgSpecHash": "D9WdoYuy9EmoJDyFpfmA30NO8Ru/mDiG22yhLQkIry6yWzhdWY27cyiSL+75IU1J9yd1u86S8/zqk9kjf2Il+Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Burdur\\.nuget\\packages\\fluentvalidation\\10.3.5\\fluentvalidation.10.3.5.nupkg.sha512",
+    "C:\\Users\\Burdur\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.5\\fluentvalidation.aspnetcore.10.3.5.nupkg.sha512",
+    "C:\\Users\\Burdur\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\10.3.5\\fluentvalidation.dependencyinjectionextensions.10.3.5.nupkg.sha512",
     "C:\\Users\\Burdur\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Burdur\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\Burdur\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",

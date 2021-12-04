@@ -1090,3 +1090,7 @@ C:\Users\ab96085\Source\Repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.
 C:\Users\ab96085\Source\Repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.0\ref\CoreDemo.dll
 C:\Users\ab96085\Source\Repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.pdb
 C:\Users\ab96085\Source\Repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.genruntimeconfig.cache
+C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.dll
+C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.MvcApplicationPartsAssemblyInfo.cs
