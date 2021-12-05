@@ -23,7 +23,11 @@ namespace EntityLayer.Concrete
         public int CategoryID { get; set; }
         public Category category { get; set; }
 
-        
+        //Bir Writer nin birden fazla blogu olabilir anlamında ilişki kuruyoruz. 
+        public int WriterID { get; set; }
+        public Writer writer { get; set; }
+
+
         //Bir Bloğa birden fazla yorum yapılabilir anlamında
         public List<Comment> Comments{ get; set; }
         

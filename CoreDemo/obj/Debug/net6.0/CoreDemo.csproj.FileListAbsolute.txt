@@ -1094,3 +1094,7 @@ C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0
 C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
 C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.MvcApplicationPartsAssemblyInfo.cs
+d:\source\repos\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.dll
+d:\source\repos\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
+d:\source\repos\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
+d:\source\repos\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.MvcApplicationPartsAssemblyInfo.cs
