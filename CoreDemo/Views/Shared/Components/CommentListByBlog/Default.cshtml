@@ -1,4 +1,7 @@
 ﻿@model IEnumerable<EntityLayer.Concrete.Comment>
+
+
+
 <div class="comment-top">
     <h4>Yapılan Yorumlar</h4>
 
@@ -15,9 +18,11 @@
                 <img src="~/CoreBlogTema/web/images/t1.jpg" alt="" class="img-fluid" />
                 <div class="media-body">
                     <h5 class="mt-0">@item.CommentUserName</h5>
+                    <p>@item.CommentTitle</p>
                     <p>@item.CommentContent</p>
                 </div>
             </div>
         }
     }
 </div>
+
