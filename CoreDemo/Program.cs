@@ -13,6 +13,10 @@ if (!app.Environment.IsDevelopment())
     app.UseHsts();
 }
 
+//Hata yönetimi ile ilgili tanýmlamayý yaptýk 404 hatasý
+app.UseStatusCodePagesWithReExecute("/Errorpage/Error1","?code={0}");
+
+
 app.UseHttpsRedirection();
 app.UseStaticFiles();
 
