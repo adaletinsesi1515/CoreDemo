@@ -1,40 +1,13 @@
-﻿
-
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-
-<div class="comment-top">
-    <h4>Yorum Yap</h4>
+﻿<div class="comment-top">
+    <h4>Yorumunuzu Bırakın!</h4>
     <div class="comment-bottom">
-        <form id="subscribeform" action="/Comment/PartialAddComment/" method="post">
-            <input id="username" type="text" placeholder="Adınızı yazınız" required="" name="CommentUserName" />
-            <input id="title" type="text" placeholder="Başlık yazınız" required="" name="CommentTitle" />
-            <textarea id="content" type="text" placeholder="Yorumunuz..." required="" name="CommentContent"></textarea>
-            <button type="submit" class="btn btn-primary submit">Gönder</button>
+        <form action="/Comment/PartialAddComment/" method="post">
+            <input class="form-control" type="text" name="CommentUserName" placeholder="Adınız ve Soyadınız..." required="">
+            
+            <input class="form-control" type="text" name="CommentTitle" placeholder="Konu..." required="">
+
+            <textarea class="form-control" name="CommentContent" placeholder="Yorumunuz..." required=""></textarea>
+            <button type="submit" class="btn btn-primary submit">Yorum Yap</button>
         </form>
     </div>
 </div>
-
-
-
-
-<script>
-
-    $("#subscribeform").submit(function (e) {
-        e.preventDefault();
-        e.stopImmediatePropagation();
-        var form = $(this);
-        var url = form.attr('action');
-        $.ajax({
-            type: "POST",
-            url: url,
-            data: form.serialize(),
-            success: function () {
-                swal("Tebrikler! Yorumunuz sitemize ulaştı...", "success"); // show response from the php script.
-                document.getElementById("username").value = "";
-                document.getElementById("title").value = "";
-                document.getElementById("content").value = "";
-            }
-        });
-    });
-</script>

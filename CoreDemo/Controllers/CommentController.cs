@@ -28,7 +28,7 @@ namespace CoreDemo.Controllers
                 p.BlogID = 3;
                 p.CommentDate = DateTime.Parse(DateTime.Now.ToShortDateString());
                 cm.CommentAdd(p);
-                return PartialView();            
+                return RedirectToAction("Index", "Blog");
         }
     }
 }

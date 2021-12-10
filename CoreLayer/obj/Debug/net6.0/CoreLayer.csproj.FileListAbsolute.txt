@@ -26,7 +26,6 @@ C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreLayer\bin\Debug\net6.
 C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreLayer\bin\Debug\net6.0\CoreLayer.dll
 C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreLayer\bin\Debug\net6.0\ref\CoreLayer.dll
 C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreLayer\bin\Debug\net6.0\CoreLayer.pdb
-C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache
 C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfoInputs.cache
 C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.AssemblyInfo.cs
