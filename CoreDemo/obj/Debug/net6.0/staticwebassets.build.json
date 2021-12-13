@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "NHiHNLiri9BWP1OqUkWTxDmbVdJKJha+KiHN8EPmAQI=",
+  "Hash": "QwkayfXk6JpHZIaYIr9oRBh7FdBTcWxHvt0t3g885Jc=",
   "Source": "CoreDemo",
   "BasePath": "_content/CoreDemo",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "CoreDemo\\wwwroot",
       "Source": "CoreDemo",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CoreDemo.styles.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CoreDemo.styles.css",
       "SourceId": "CoreDemo",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreDemo.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CoreDemo.styles.css"
+      "OriginalItemSpec": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\Debug\\net6.0\\scopedcss\\bundle\\CoreDemo.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoreDemo.bundle.scp.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoreDemo.bundle.scp.css",
       "SourceId": "CoreDemo",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreDemo.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoreDemo.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CoreDemo.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\css\\style.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\css\\style.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "404errorpage/starter/css/style.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\404errorpage\\starter\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\fonts\\FontAwesome.otf",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\fonts\\FontAwesome.otf",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "404errorpage/starter/fonts/FontAwesome.otf",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\404errorpage\\starter\\fonts\\FontAwesome.otf"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.eot",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.eot",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "404errorpage/starter/fonts/fontawesome-webfont.eot",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.eot"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.svg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.svg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "404errorpage/starter/fonts/fontawesome-webfont.svg",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.svg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.ttf",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.ttf",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "404errorpage/starter/fonts/fontawesome-webfont.ttf",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.ttf"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.woff",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.woff",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "404errorpage/starter/fonts/fontawesome-webfont.woff",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.woff"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.woff2",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.woff2",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "404errorpage/starter/fonts/fontawesome-webfont.woff2",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\404errorpage\\starter\\fonts\\fontawesome-webfont.woff2"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\images\\bg.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\images\\bg.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "404errorpage/starter/images/bg.jpg",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\404errorpage\\starter\\images\\bg.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\index.html",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\index.html",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "404errorpage/starter/index.html",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\404errorpage\\starter\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\js\\fontawesome.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\js\\fontawesome.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "404errorpage/starter/js/fontawesome.js",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\404errorpage\\starter\\js\\fontawesome.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\starter-license-W3Layouts.txt",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\404errorpage\\starter\\starter-license-W3Layouts.txt",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "404errorpage/starter/starter-license-W3Layouts.txt",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\404errorpage\\starter\\starter-license-W3Layouts.txt"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema.zip",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema.zip",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema.zip",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema.zip"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\about.html",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\about.html",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/about.html",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\about.html"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\blog1.html",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\blog1.html",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/blog1.html",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\blog1.html"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\blog2.html",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\blog2.html",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/blog2.html",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\blog2.html"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\blog3.html",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\blog3.html",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/blog3.html",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\blog3.html"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\contact.html",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\contact.html",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/contact.html",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\contact.html"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\css\\bootstrap.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/css/bootstrap.css",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\css\\contact.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\css\\contact.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/css/contact.css",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\css\\contact.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\css\\fontawesome-all.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\css\\fontawesome-all.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/css/fontawesome-all.css",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\css\\fontawesome-all.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\css\\jquery.desoslide.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\css\\jquery.desoslide.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/css/jquery.desoslide.css",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\css\\jquery.desoslide.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\css\\single.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\css\\single.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/css/single.css",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\css\\single.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\css\\style.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\css\\style.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/css/style.css",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\1.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\1.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/1.jpg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\2.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\2.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/2.jpg",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\3.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\3.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/3.jpg",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\4.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\4.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/4.jpg",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\5.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\5.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/5.jpg",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\6.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\6.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/6.jpg",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\7.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\7.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/7.jpg",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\8.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\8.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/8.jpg",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\b1.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\b1.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/b1.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\b1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\b2.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\b2.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/b2.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\b2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\b3.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\b3.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/b3.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\b3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\b4.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\b4.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/b4.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\b4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\b5.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\b5.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/b5.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\b5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\banner1.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\banner1.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/banner1.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\banner1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\banner2.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\banner2.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/banner2.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\banner2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\banner3.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\banner3.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/banner3.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\banner3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\banner4.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\banner4.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/banner4.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\banner4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\banner5.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\banner5.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/banner5.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\banner5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\left.png",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\left.png",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/left.png",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\left.png"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\m1.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\m1.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/m1.jpg",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\m1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\m2.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\m2.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/m2.jpg",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\m2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\m3.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\m3.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/m3.jpg",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\m3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\m4.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\m4.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/m4.jpg",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\m4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\right.png",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\right.png",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/right.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\right.png"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\t1.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\t1.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/t1.jpg",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\t1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\t2.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\t2.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/t2.jpg",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\t2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\t3.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\t3.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/t3.jpg",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\t3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\t4.jpg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\t4.jpg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/t4.jpg",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\t4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\Thumbs.db",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\Thumbs.db",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/Thumbs.db",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\Thumbs.db"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\top_up.png",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\images\\top_up.png",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/images/top_up.png",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\images\\top_up.png"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\index.html",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\index.html",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/index.html",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\bootstrap.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/js/bootstrap.js",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\easing.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\easing.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/js/easing.js",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\js\\easing.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\jquery.desoslide.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\jquery.desoslide.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/js/jquery.desoslide.js",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\js\\jquery.desoslide.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\jquery.flexisel.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\jquery.flexisel.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/js/jquery.flexisel.js",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\js\\jquery.flexisel.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\jquery-2.2.3.min.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\jquery-2.2.3.min.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/js/jquery-2.2.3.min.js",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\js\\jquery-2.2.3.min.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\modernizr.custom.min.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\modernizr.custom.min.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/js/modernizr.custom.min.js",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\js\\modernizr.custom.min.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\move-top.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\js\\move-top.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/js/move-top.js",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\js\\move-top.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\login.html",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\login.html",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/login.html",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\login.html"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\register.html",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\register.html",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/register.html",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\register.html"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\single.html",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\single.html",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/single.html",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\single.html"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\w3layouts-license.txt",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\w3layouts-license.txt",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/w3layouts-license.txt",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\w3layouts-license.txt"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.eot",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.eot",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-brands-400.eot",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.eot"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.svg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.svg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-brands-400.svg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.svg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.ttf",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.ttf",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-brands-400.ttf",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-brands-400.woff",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff2",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff2",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-brands-400.woff2",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-brands-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.eot",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.eot",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-regular-400.eot",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.eot"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.svg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.svg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-regular-400.svg",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.svg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.ttf",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.ttf",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-regular-400.ttf",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.ttf"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-regular-400.woff",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff2",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff2",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-regular-400.woff2",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-regular-400.woff2"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.eot",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.eot",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-solid-900.eot",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.eot"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.svg",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.svg",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-solid-900.svg",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.svg"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.ttf",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.ttf",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-solid-900.ttf",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.ttf"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-solid-900.woff",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff2",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff2",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "CoreBlogTema/web/webfonts/fa-solid-900.woff2",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\CoreBlogTema\\web\\webfonts\\fa-solid-900.woff2"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\css\\site.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\css\\site.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "css/site.css",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\css\\site.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\favicon.ico",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\favicon.ico",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "favicon.ico",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\js\\site.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\js\\site.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "js/site.js",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\js\\site.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.css.map",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.min.css.map",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.css.map",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.css.map",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.css.map",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.css.map",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.js.map",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js.map",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.js.map",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/dist/js/bootstrap.min.js.map",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\bootstrap\\LICENSE",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/bootstrap/LICENSE",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\LICENSE"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/jquery/dist/jquery.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/jquery/dist/jquery.min.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/jquery/dist/jquery.min.map",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/jquery/LICENSE.txt",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/jquery-validation/dist/additional-methods.min.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/jquery-validation/dist/jquery.validate.min.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/jquery-validation/LICENSE.md",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Identity": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Identity": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "SourceId": "CoreDemo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
       "BasePath": "_content/CoreDemo",
       "RelativePath": "lib/jquery-validation-unobtrusive/LICENSE.txt",
       "AssetKind": "All",

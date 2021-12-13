@@ -3,9 +3,9 @@
 			<div class="row">
 				<div class="col-lg-4 footer-grid-agileits-w3ls text-left">
 					<h3>Hakkımızda</h3>
-					<p>Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. lacinia eget consectetur sed, convallis at tellus..</p>
+					<p>Londra metrosu veya diğer bilinen adıyla Londra yeraltı metrosu (İngilizce: London Underground), Birleşik Krallık'ın başkenti Londra ve yakın çevresindeki Essex, Hertfordshire ve Buckinghamshire kentlerini birbirine bağlayan raylı toplu... </p>
 					<div class="read">
-						<a href="single.html" class="btn btn-primary read-m">Devamını oku..</a>
+						<a href="/About/Index/" class="btn btn-primary read-m">Devamını oku..</a>
 					</div>
 				</div>
 				<div class="col-lg-4 footer-grid-agileits-w3ls text-left">
@@ -71,15 +71,7 @@
 				<!-- subscribe -->
 				<div class="col-lg-4 subscribe-main footer-grid-agileits-w3ls text-left">
 					<h2>Haber Bültenine Üye Ol</h2>
-					<div class="subscribe-main text-left">
-						<div class="subscribe-form">
-							<form action="#" method="post" class="subscribe_form">
-								<input class="form-control" type="email" placeholder="Email adresiniz..." required="">
-								<button type="submit" class="btn btn-primary submit">Kayıt</button>
-							</form>
-							<div class="clearfix"> </div>
-						</div>
-						<p>Gizliliğinize saygı duyuyoruz. Asla spam yok!</p>
+					@await Html.PartialAsync("~/Views/NewsLetter/SubscribeMail.cshtml")
 					</div>
 					<!-- //subscribe -->
 				</div>
@@ -118,8 +110,8 @@
 					</div>
 				</div>
 				<div class="w3layouts-agile-copyrightbottom">
-					<p>© @DateTime.Now.Year Weblog. Her hakkı saklıdır | Design by
-						<a href="http://w3layouts.com/">W3layouts</a>
+					<p>© @DateTime.Now.Year Asp.Net Core 5.0 Proje Kampı. Her hakkı saklıdır | Design by
+						<a href="http://w3layouts.com/">adaletinsesi</a>
 					</p>
 
 				</div>
