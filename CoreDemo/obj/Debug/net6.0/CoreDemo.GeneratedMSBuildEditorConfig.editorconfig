@@ -87,6 +87,14 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcV3JpdGVyTGFzdEJsb2dcRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/ab96085/source/repos/adaletinsesi1515/CoreDemo/CoreDemo/Views/Shared/Components/WriterMessageNotification/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcV3JpdGVyTWVzc2FnZU5vdGlmaWNhdGlvblxEZWZhdWx0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ab96085/source/repos/adaletinsesi1515/CoreDemo/CoreDemo/Views/Shared/Components/WriterNotification/Default.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcV3JpdGVyTm90aWZpY2F0aW9uXERlZmF1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/ab96085/source/repos/adaletinsesi1515/CoreDemo/CoreDemo/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -117,6 +125,14 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/ab96085/source/repos/adaletinsesi1515/CoreDemo/CoreDemo/Views/Writer/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ab96085/source/repos/adaletinsesi1515/CoreDemo/CoreDemo/Views/Writer/WriterFooterPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXFdyaXRlckZvb3RlclBhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ab96085/source/repos/adaletinsesi1515/CoreDemo/CoreDemo/Views/Writer/WriterNavbarPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV3JpdGVyXFdyaXRlck5hdmJhclBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/ab96085/source/repos/adaletinsesi1515/CoreDemo/CoreDemo/Views/_ViewImports.cshtml]
