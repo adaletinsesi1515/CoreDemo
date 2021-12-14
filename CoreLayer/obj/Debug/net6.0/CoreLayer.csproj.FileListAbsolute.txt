@@ -44,3 +44,4 @@ C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreLayer\obj\Debug\net6
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache

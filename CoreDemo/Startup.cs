@@ -34,7 +34,12 @@ namespace CoreDemo
 
             //    services.AddSession();
 
+            services.AddMvc().AddSessionStateTempDataProvider();
             services.AddSession();
+
+            services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme)
+                .AddCookie(x => x.LoginPath = "/Login/Index");
+
             
             services.AddMvc(config =>
             {
@@ -64,7 +69,10 @@ namespace CoreDemo
             app.UseStatusCodePagesWithReExecute("/Errorpage/Error1", "?code={0}");
 
             app.UseSession();
+            
+            // app.UseMvcWithDefaultRoute();
 
+            app.UseAuthentication();
 
             app.UseHttpsRedirection();
 

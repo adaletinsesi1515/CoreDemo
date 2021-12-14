@@ -48,6 +48,11 @@ namespace BusinessLayer.Concrete
             return _blogDal.GetById(id);
         }
 
+        public List<Blog> GetLast3Blog()
+        {
+            return _blogDal.GetListAll().TakeLast(3).ToList();
+        }
+
         public List<Blog> ListAll()
         {
             return _blogDal.GetListAll();
