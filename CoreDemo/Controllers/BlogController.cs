@@ -18,7 +18,7 @@ namespace CoreDemo.Controllers
         public IActionResult BlogReadAll(int id)
         {
             ViewBag.Id = id;
-            var values = bm.ListAll(id);
+            var values = bm.ListAllParameter(id);
             return View(values);
         }
 

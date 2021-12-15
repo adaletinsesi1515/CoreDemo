@@ -10,7 +10,7 @@ namespace CoreDemo.Controllers
         
         public IActionResult Index()
         {
-            var values = abm.GetAboutList();
+            var values = abm.ListAll();
             return View(values);
         }
 

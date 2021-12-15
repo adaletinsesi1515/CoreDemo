@@ -18,9 +18,34 @@ namespace BusinessLayer.Concrete
             _newsLetterDal = newsLetterDal;
         }
 
-        public void NewsLetterAdd(NewsLetter newsLetter)
+        public NewsLetter GetById(int id)
         {
-            _newsLetterDal.Insert(newsLetter);
+            return _newsLetterDal.GetById(id);
+        }
+
+        public List<NewsLetter> ListAll()
+        {
+            return _newsLetterDal.GetListAll();
+        }
+
+        public List<NewsLetter> ListAllParameter(int id)
+        {
+            return _newsLetterDal.GetListAll(x=>x.MailID == id);
+        }
+
+        public void TAdd(NewsLetter t)
+        {
+            _newsLetterDal.Insert(t);
+        }
+
+        public void TRemove(NewsLetter t)
+        {
+            _newsLetterDal.Delete(t);
+        }
+
+        public void TUpdate(NewsLetter t)
+        {
+            _newsLetterDal.Update(t);
         }
     }
 }

@@ -27,7 +27,7 @@ namespace CoreDemo.Controllers
                 p.CommentStatus = true;
                 p.BlogID = 3;
                 p.CommentDate = DateTime.Parse(DateTime.Now.ToShortDateString());
-                cm.CommentAdd(p);
+                cm.TAdd(p);
                 return RedirectToAction("Index", "Blog");
         }
     }

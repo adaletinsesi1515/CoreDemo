@@ -10,7 +10,7 @@ namespace CoreDemo.ViewComponents.Comment
 
         public IViewComponentResult Invoke(int id)
         {            
-            var values = cm.ListAll(id);
+            var values = cm.ListAllParameter(id);
             return View(values);
         }
 
