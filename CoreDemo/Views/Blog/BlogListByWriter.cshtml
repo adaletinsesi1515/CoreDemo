@@ -6,67 +6,33 @@
     Layout = "~/Views/Shared/_WriterLayout.cshtml";
 }
 
+<div class="table-bordered">
+    <h4>Yazarın Blogları</h4>
+    <table class="table table-bordered">
 
-            <h4>Yazarın Blogları</h4>            
-            <table class="table table-bordered">
-               
-                    <tr>
-                        <th> # </th>
-                        <th> Blog Başlığı </th>
-                        <th> Oluşturma Tarihi </th>
-                        <th> Kategorisi </th>
-                        <th> Durumu </th>
-                        <th> Sil </th>
-                        <th> Düzenle </th>
-                    </tr>               
-                
-                    @foreach (var item in Model)
-                    {
-                        <tr>
-                            <td> @item.BlogID </td>
-                            <td> @item.BlogTitle</td>
-                            <td> @item.BlogCreateDate </td>
-                            <td> @item.CategoryID</td>
-                            <td> @item.BlogStatus </td>
-                            <td><a href="#" class="btn btn-danger">Sil</a></td>
-                            <td><a href="#" class="btn alert-warning">Düzenle</a></td>
-                        </tr>
-                    }                
-            </table>
-            <a href="#" class="btn btn-info">Yeni Blog Oluştur</a>
-        
+        <tr>
+            <th> # </th>
+            <th> Blog Başlığı </th>
+            <th> Oluşturma Tarihi </th>
+            <th> Kategorisi </th>
+            <th> Durumu </th>
+            <th> Sil </th>
+            <th> Düzenle </th>
+        </tr>
 
-@*
-        <div class="card">
-        <div class="card-body">
-            <h4 class="card-title">Yazarın Blogları</h4>            
-            <table class="table table-bordered">
-                <thead>
-                    <tr>
-                        <th> # </th>
-                        <th> Blog Başlığı </th>
-                        <th> Oluşturma Tarihi </th>
-                        <th> Kategorisi </th>
-                        <th> Durumu </th>
-                        <th> Sil </th>
-                        <th> Düzenle </th>
-                    </tr>
-                </thead>
-                <tbody>
-                    @foreach (var item in Model)
-                    {
-                        <tr>
-                            <td> @item.BlogID </td>
-                            <td> @item.BlogTitle</td>
-                            <td> @item.BlogCreateDate </td>
-                            <td> @item.CategoryID</td>
-                            <td> @item.BlogStatus </td>
-                            <td><a href="#" class="btn btn-danger">Sil</a></td>
-                            <td><a href="#" class="btn alert-warning">Düzenle</a></td>
-                        </tr>
-                    }
-                </tbody>
-            </table>
-            <a href="#" class="btn btn-info">Yeni Blog Oluştur</a>
-        </div>
-    </div>*@
+        @foreach (var item in Model)
+        {
+            <tr>
+                <th> @item.BlogID </th>
+                <td> @item.BlogTitle</td>
+                <td> @item.BlogCreateDate </td>
+                <td> @item.CategoryID</td>
+                <td> @item.BlogStatus </td>
+                <td><a href="#" class="btn btn-danger">Sil</a></td>
+                <td><a href="#" class="btn alert-warning">Düzenle</a></td>
+            </tr>
+        }
+    </table>
+</div>
+<a href="/Blog/BlogAdd" class="btn btn-info">Yeni Blog Oluştur</a>
+

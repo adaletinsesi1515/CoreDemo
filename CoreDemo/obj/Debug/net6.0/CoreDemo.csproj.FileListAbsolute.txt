@@ -842,10 +842,7 @@ C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\MessagePack.Annotations.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
-C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.Build.dll
-C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.Build.Framework.dll
-C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.Build.Tasks.Core.dll
-C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.Build.Utilities.Core.dll
+C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.Build.Locator.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
@@ -893,7 +890,6 @@ C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\NuGet.ProjectModel.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\NuGet.Protocol.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\NuGet.Versioning.dll
-C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.CodeDom.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Composition.AttributedModel.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Composition.Convention.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Composition.Hosting.dll
@@ -902,7 +898,6 @@ C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
-C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Resources.Extensions.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Runtime.Caching.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Security.Permissions.dll
