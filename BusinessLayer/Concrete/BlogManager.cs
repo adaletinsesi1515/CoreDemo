@@ -28,8 +28,11 @@ namespace BusinessLayer.Concrete
         {
             return _blogDal.GetlistWithCategory();
         }
-
-        public Blog GetById(int id)
+        public List<Blog> GetBlogListWithCategoryByWriter(int id)
+        {
+            return _blogDal.GetlistWithCategoryByWriter(id);
+        }
+        public Blog TGetById(int id)
         {
             return _blogDal.GetById(id);
         }
