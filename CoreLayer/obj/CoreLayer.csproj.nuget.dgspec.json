@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {}
+    "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {
+    "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreLayer\\CoreLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
         "projectName": "CoreLayer",
-        "projectPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
-        "packagesPath": "C:\\Users\\ab96085\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreLayer\\obj\\",
+        "projectPath": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreLayer\\CoreLayer.csproj",
+        "packagesPath": "C:\\Users\\Burdur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Burdur\\Source\\Repos\\adaletinsesi1515\\CoreDemo\\CoreLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ab96085\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Burdur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

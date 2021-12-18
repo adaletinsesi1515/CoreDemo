@@ -23,7 +23,7 @@
                 </div>
                 <div class="form-group">
                     <label for="exampleInputName1">Blog için Kategori seçiniz</label>
-                        @Html.DropDownListFor(x => x.CategoryID, (List<SelectListItem>)ViewBag.Category, new { @class = "form-control" })
+                        @Html.DropDownListFor(x => x.CategoryID, (List<SelectListItem>)ViewBag.CategoryList, new { @class = "form-control" })
                 </div>
                 
                 @*<div class="form-group">
