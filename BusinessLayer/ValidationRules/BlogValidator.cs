@@ -18,7 +18,7 @@ namespace BusinessLayer.ValidationRules
 
             RuleFor(x => x.BlogContent).NotEmpty().WithMessage("Blog içeriği boş geçilemez");
             RuleFor(x => x.BlogContent).MinimumLength(5).WithMessage("Blog içeriği minimum 5 karakter olmalıdır");
-            RuleFor(x => x.BlogContent).MaximumLength(1000).WithMessage("Blog içeriği maximum 1000 karakter olabilir");
+            RuleFor(x => x.BlogContent).MaximumLength(1500).WithMessage("Blog içeriği maximum 1000 karakter olabilir");
 
         }
     }

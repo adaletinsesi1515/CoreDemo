@@ -45,3 +45,4 @@ C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\EntityLayer\obj\Debug\net
 C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\EntityLayer\obj\Debug\net6.0\ref\EntityLayer.dll
 C:\Users\Burdur\Source\Repos\adaletinsesi1515\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.pdb
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
+C:\Users\Burdur\source\repos\adaletinsesi1515\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
