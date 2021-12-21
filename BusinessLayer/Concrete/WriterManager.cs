@@ -47,5 +47,10 @@ namespace BusinessLayer.Concrete
         {
             _writerDal.Update(t);
         }
+
+        public List<Writer> GetWriterListById(int id)
+        {
+            return _writerDal.GetListAll(x => x.WriterID == id);
+        }
     }
 }
