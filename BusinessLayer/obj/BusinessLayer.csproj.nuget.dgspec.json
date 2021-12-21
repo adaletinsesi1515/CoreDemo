@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {}
+    "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
+    "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
         "projectName": "BusinessLayer",
-        "projectPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
-        "packagesPath": "C:\\Users\\ab96085\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\BusinessLayer\\obj\\",
+        "projectPath": "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj",
+        "packagesPath": "C:\\Users\\Burdur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\BusinessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ab96085\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Burdur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
-                "projectPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
+              "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+                "projectPath": "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
               },
-              "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -75,17 +75,17 @@
         }
       }
     },
-    "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\ab96085\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Burdur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ab96085\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Burdur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -99,8 +99,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -155,17 +155,17 @@
         }
       }
     },
-    "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\ab96085\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\Burdur\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Burdur\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ab96085\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Burdur\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
