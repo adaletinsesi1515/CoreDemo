@@ -4,6 +4,7 @@ using CoreDemo.Models;
 using DataAccessLayer.EntityFramework;
 using EntityLayer.Concrete;
 using FluentValidation.Results;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 
@@ -14,6 +15,7 @@ namespace CoreDemo.Controllers
         WriterManager wm = new WriterManager(new EfWriterRepository());
         RegisterCity cm = new RegisterCity();
 
+        [AllowAnonymous]
         [HttpGet]
         public IActionResult Index()
         {
@@ -26,17 +28,31 @@ namespace CoreDemo.Controllers
             ViewBag.dpr = deger1;
             return View();
         }
-
+        [AllowAnonymous]
         [HttpPost]
-        public IActionResult Index(Writer p)
+        public IActionResult Index(AddProfileImage p, Writer x)
         {
             WriterValidator kurallar = new WriterValidator();
-            ValidationResult result = kurallar.Validate(p);
+            ValidationResult result = kurallar.Validate(x);
             if (result.IsValid)
             {
-                p.WriterStatus = true;
-                p.WriterAbout = "Deneme Test";
-                wm.TAdd(p);
+                if (p.WriterImage != null)
+                {
+                    var extension = Path.GetExtension(p.WriterImage.FileName);
+                    var newImageName = Guid.NewGuid() + extension;
+                    var location = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/WriterImageFiles/",
+                        newImageName);
+                    var stream = new FileStream(location, FileMode.Create);
+                    p.WriterImage.CopyTo(stream);
+                    x.WriterImage = newImageName;
+                }
+                x.WriterName = p.WriterName;
+                x.WriterAbout = p.WriterAbout;
+                x.WriterMail = p.WriterMail;
+                x.WriterPassword = p.WriterPassword;
+                x.WriterPassword2 = p.WriterPassword2;
+                x.WriterStatus = true;
+                wm.TAdd(x);
                 return RedirectToAction("Index", "Blog");
             }
             else
