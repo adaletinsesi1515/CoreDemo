@@ -20,7 +20,7 @@ namespace BusinessLayer.Concrete
 
         public List<Notification> ListAll()
         {
-            return _notificationdal.GetListAll();
+            return _notificationdal.GetListAll(x=>x.NotificationStatus == true);
         }
 
         public List<Notification> ListAllParameter(int id)
