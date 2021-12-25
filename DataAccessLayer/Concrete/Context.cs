@@ -12,8 +12,8 @@ namespace DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            // optionsBuilder.UseSqlServer("server=GAME1515; database=CoreBlogDb; integrated security=true;");
-                optionsBuilder.UseSqlServer("server=AB01500-5000; database=CoreBlogDb; integrated security=true;");
+             optionsBuilder.UseSqlServer("server=GAME1515; database=CoreBlogDb; integrated security=true;");
+            //    optionsBuilder.UseSqlServer("server=AB01500-5000; database=CoreBlogDb; integrated security=true;");
            //  optionsBuilder.UseSqlServer("server=DESKTOP-03OU7FF; database=CoreBlogDb; integrated security=true;");
 
         }
@@ -26,6 +26,7 @@ namespace DataAccessLayer.Concrete
         public DbSet<Writer> Writers { get; set; }
         public DbSet<NewsLetter> NewsLetters { get; set; }
         public DbSet<BlogRayting> BlogRaytings { get; set; }
+        public DbSet<Notification> Notifications { get; set; }  
 
     }
 }
