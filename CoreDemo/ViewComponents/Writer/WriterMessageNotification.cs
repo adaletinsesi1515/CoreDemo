@@ -10,9 +10,8 @@ namespace CoreDemo.ViewComponents.Writer
 
         public IViewComponentResult Invoke()
         {
-            string p;
-            p = "test@gmail.com";
-            var values = mm.GetInboxListByWriter(p);
+            int id = 2;            
+            var values = mm.GetInboxListByWriter(id);
             return View(values);  
         }
 

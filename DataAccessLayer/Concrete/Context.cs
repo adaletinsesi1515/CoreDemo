@@ -12,11 +12,30 @@ namespace DataAccessLayer.Concrete
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-             optionsBuilder.UseSqlServer("server=GAME1515; database=CoreBlogDb; integrated security=true;");
-            //    optionsBuilder.UseSqlServer("server=AB01500-5000; database=CoreBlogDb; integrated security=true;");
+            // optionsBuilder.UseSqlServer("server=GAME1515; database=CoreBlogDb; integrated security=true;");
+                optionsBuilder.UseSqlServer("server=AB01500-5000; database=CoreBlogDb; integrated security=true;");
            //  optionsBuilder.UseSqlServer("server=DESKTOP-03OU7FF; database=CoreBlogDb; integrated security=true;");
 
         }
+
+        //Bir tablodaki bir alanı, diğer tablodaki iki alana bağlama işlemi yapıyoruz. 
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<Message2>()
+                .HasOne(x => x.SenderUser)
+                .WithMany(y => y.WriterSender)
+                .HasForeignKey(z => z.SenderId)
+                .OnDelete(DeleteBehavior.ClientSetNull);
+
+            modelBuilder.Entity<Message2>()
+                .HasOne(x => x.ReceiverUser)
+                .WithMany(y => y.WriterReceiver)
+                .HasForeignKey(z => z.ReceiverId)
+                .OnDelete(DeleteBehavior.ClientSetNull);
+        }
+        
+            
+
 
         public DbSet<About> Abouts { get; set; }
         public DbSet<Blog> Blogs { get; set; }
@@ -28,6 +47,7 @@ namespace DataAccessLayer.Concrete
         public DbSet<BlogRayting> BlogRaytings { get; set; }
         public DbSet<Notification> Notifications { get; set; }
         public DbSet<Message> Messages { get; set; }
+        public DbSet<Message2> Message2s { get; set; }
 
     }
 }
