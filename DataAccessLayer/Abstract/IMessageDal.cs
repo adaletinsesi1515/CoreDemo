@@ -9,5 +9,6 @@ namespace DataAccessLayer.Abstract
 {
     public interface IMessageDal : IGenericDal<Message2>
     {
+        List<Message2> GetlistWithMessageByWriter(int id);
     }
 }

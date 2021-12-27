@@ -1,6 +1,8 @@
 ﻿using DataAccessLayer.Abstract;
+using DataAccessLayer.Concrete;
 using DataAccessLayer.Repositories;
 using EntityLayer.Concrete;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,5 +13,12 @@ namespace DataAccessLayer.EntityFramework
 {
     public class EfMessageRepository : GenericRepository<Message2>, IMessageDal
     {
+        public List<Message2> GetlistWithMessageByWriter(int id)
+        {
+            using (var c = new Context())
+            {
+                return c.Message2s.Include(x => x.SenderUser).Where(x => x.SenderId== id).ToList();
+            }
+        }
     }
 }
