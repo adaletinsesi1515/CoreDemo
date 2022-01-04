@@ -6,6 +6,7 @@ using System.Diagnostics;
 namespace CoreDemo.Controllers
 {
     [AllowAnonymous]
+    [Area("Default")]
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
