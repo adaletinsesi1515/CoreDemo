@@ -1087,3 +1087,6 @@ C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.0\ref\CoreDemo.dll
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.pdb
 C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.genruntimeconfig.cache
+C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\JetBrains.Annotations.dll
+C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\X.PagedList.dll
+C:\Users\ab96085\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\X.PagedList.Mvc.Core.dll
