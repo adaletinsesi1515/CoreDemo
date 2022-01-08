@@ -9,10 +9,11 @@
 
 <h1>Kategori Listesi</h1>
 <br />
-<table class="table table-bordered">
+<table class="table table-bordered" id="tbl1">
     <tr>
         <th>#</th>
         <th>Kategori Adı</th>
+        <th>Durumu</th>
         <th>Pasif Yap</th>
         <th>Aktif Yap</th>
         <th>Düzenle</th>
@@ -22,13 +23,31 @@
         <tr>
             <th>@item.CategoryID</th>
             <td>@item.CategoryName</td>
-            <td><a href="#" class="btn btn-danger">Pasif Yap</a></td>
-            <td><a href="#" class="btn btn-success">Aktif Yap</a></td>
-            <td><a href="#" class="btn btn-info">Düzenle</a></td>
+            @if (@item.CategoryStatus == true)
+            {
+                <td>Aktif</td>
+            }
+            else
+            {
+                <td>Pasif</td>
+            }   
+            
+
+            <td><a href="/Admin/Category/CategoryPassive/@item.CategoryID" id="PassiveBtn" 
+                onclick="return confirm('Pasif yapmak istediğinizden emin misiniz?')";
+                class="btn btn-danger">Pasif Yap</a></td>
+
+            <td><a href="/Admin/Category/CategoryActive/@item.CategoryID" id="ActiveBtn" 
+                onclick="return confirm('Aktif yapmak istediğinizden emin misiniz?')"; 
+                class="btn btn-success">Aktif Yap</a></td>
+
+            <td><a href="/Admin/Category/CategoryEdit/@item.CategoryID" class="btn btn-info">Düzenle</a></td>
         </tr>
     }
+
 </table>
 <a href="/Admin/Category/CategoryAdd/" class="btn btn-primary">Yeni Kategori</a>
 <br />
 <br />
 @Html.PagedListPager((IPagedList)Model, page=>Url.Action("Index", new {page}))
+

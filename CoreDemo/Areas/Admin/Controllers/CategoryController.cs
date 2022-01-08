@@ -48,5 +48,49 @@ namespace CoreDemo.Areas.Admin.Controllers
             return View();
         }
 
+        public IActionResult CategoryPassive(int id)
+        {
+            var value=cm.TGetById(id);
+            value.CategoryStatus = false;            
+            cm.TUpdate(value);            
+            return RedirectToAction("Index");
+        }
+
+        public IActionResult CategoryActive(int id)
+        {
+            var value = cm.TGetById(id);
+            value.CategoryStatus = true;
+            cm.TUpdate(value);
+            return RedirectToAction("Index");
+        }
+
+        [HttpGet]
+        public IActionResult CategoryEdit(int id)
+        {
+            var values = cm.TGetById(id);
+            return View(values);
+        }
+
+        [HttpPost]
+        public IActionResult CategoryEdit (Category p)
+        {
+            CategoryValidator bv = new CategoryValidator();
+            ValidationResult results = bv.Validate(p);
+            if (results.IsValid)
+            {
+                var value = cm.TGetById(p.CategoryID);//eski değeri getirme
+                cm.TUpdate(p);//update işlemi
+                return RedirectToAction("Index");
+            }
+            else
+            {
+                foreach (var item in results.Errors)
+                {
+                    ModelState.AddModelError(item.PropertyName, item.ErrorMessage);
+                }
+            }            
+            return View();
+        }
+
     }
 }

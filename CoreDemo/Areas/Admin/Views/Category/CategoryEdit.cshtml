@@ -1,0 +1,31 @@
+﻿@model EntityLayer.Concrete.Category
+
+@{
+    ViewData["Title"] = "CategoryEdit";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<div class="col-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Kategori Kayıt Güncelleme Paneli</h4>
+            @using (Html.BeginForm("CategoryEdit", "Category", FormMethod.Post))
+            {
+                @Html.HiddenFor(x => x.CategoryID, new { @class = "form-control" })
+                <br />
+                @Html.Label("Kategori Adı")
+                @Html.TextBoxFor(x => x.CategoryName, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.CategoryName, "", new { @class = "text-danger" })
+                <br />
+                @Html.Label("Kategori Açıklaması")
+                @Html.TextAreaFor(x => x.CategoryDescription, 15,3, new { @class = "form-control" })
+                @Html.ValidationMessageFor(x => x.CategoryDescription, "", new { @class = "text-danger" })
+                <br />
+                <button class="btn btn-success">Güncelle</button>
+            }
+        </div>
+
+    </div>
+
+</div>
+
