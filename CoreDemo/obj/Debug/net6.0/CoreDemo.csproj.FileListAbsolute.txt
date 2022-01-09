@@ -1099,6 +1099,9 @@ C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\CoreDemo.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\ref\CoreDemo.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\CoreDemo.pdb
+C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\ClosedXML.dll
+C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\ExcelNumberFormat.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.AspNetCore.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\FluentValidation.DependencyInjectionExtensions.dll
@@ -1164,6 +1167,7 @@ C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.IO.Packaging.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Runtime.Caching.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.Security.Permissions.dll
@@ -1365,7 +1369,3 @@ C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.0
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.0\ref\CoreDemo.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.pdb
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.genruntimeconfig.cache
-C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\ClosedXML.dll
-C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
-C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\ExcelNumberFormat.dll
-C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreDemo\bin\Debug\net6.0\System.IO.Packaging.dll
