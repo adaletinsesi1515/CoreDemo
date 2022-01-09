@@ -121,6 +121,10 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "ClosedXML": {
+              "target": "Package",
+              "version": "[0.95.4, )"
+            },
             "FluentValidation": {
               "target": "Package",
               "version": "[10.3.5, )"
