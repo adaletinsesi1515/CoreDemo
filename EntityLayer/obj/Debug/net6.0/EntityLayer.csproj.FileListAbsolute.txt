@@ -49,6 +49,7 @@ C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\EntityLayer\bin\Debug\net
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\EntityLayer\bin\Debug\net6.0\ref\EntityLayer.dll
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\EntityLayer\bin\Debug\net6.0\EntityLayer.pdb
+C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.csproj.AssemblyReference.cache
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfoInputs.cache
 C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\EntityLayer\obj\Debug\net6.0\EntityLayer.AssemblyInfo.cs
