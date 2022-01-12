@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Memduh\\.nuget\\packages\\": {}
+    "C:\\Users\\ab96085\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+      "projectUniqueName": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
       "projectName": "EntityLayer",
-      "projectPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
-      "packagesPath": "C:\\Users\\Memduh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\obj\\",
+      "projectPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+      "packagesPath": "C:\\Users\\ab96085\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\ab96085\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Memduh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ab96085\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
