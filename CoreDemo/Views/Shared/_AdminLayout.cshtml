@@ -192,6 +192,8 @@
     <!-- Mainly scripts -->
     <script src="~/adminpanel/js/jquery-3.1.1.min.js"></script>
     <script src="~/adminpanel/js/popper.min.js"></script>
+    <script src="~/adminpanel/js/popper.min.js.map"></script>
+
     <script src="~/adminpanel/js/bootstrap.js"></script>
     <script src="~/adminpanel/js/plugins/metisMenu/jquery.metisMenu.js"></script>
     <script src="~/adminpanel/js/plugins/slimscroll/jquery.slimscroll.min.js"></script>
@@ -234,6 +236,9 @@
         });
     </script>
 
+    @*// Sayfada Scriptin çalışmasını sağlayacak komut*@
+    
+     @await RenderSectionAsync("scripts")
     
 
 </body>

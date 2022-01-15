@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L4pk8BbnN470sBTM5F9C0ISmNu9ew/8Fedxyyn9baVA=",
+  "Hash": "SqTaq5pMaEURcwFoJ0torkyP11AK0jP4RsWlURmzzjY=",
   "Source": "CoreDemo",
   "BasePath": "_content/CoreDemo",
   "Mode": "Default",
@@ -26093,6 +26093,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\adminpanel\\js\\popper.min.js"
+    },
+    {
+      "Identity": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\adminpanel\\js\\popper.min.js.map",
+      "SourceId": "CoreDemo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\",
+      "BasePath": "_content/CoreDemo",
+      "RelativePath": "adminpanel/js/popper.min.js.map",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\adminpanel\\js\\popper.min.js.map"
     },
     {
       "Identity": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\wwwroot\\adminpanel\\landing.html",
