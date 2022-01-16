@@ -4,58 +4,61 @@ using Newtonsoft.Json;
 
 namespace CoreDemo.Areas.Admin.Controllers
 {
+    [Area("Admin")]
     public class WriterController : Controller
     {
-        [Area("Admin")]
-
         public IActionResult Index()
         {
             return View();
         }
+
         public IActionResult WriterList()
         {
-            var JsonWriters = JsonConvert.SerializeObject(Writers);
-            return Json(JsonWriters);
+            var jsonWriters = JsonConvert.SerializeObject(writerClasses);
+            return Json(jsonWriters);
         }
-        public IActionResult GetWriterByID(int writerId)
+
+        public IActionResult GetWriterByID(int writerid)
         {
-            var findWriter = Writers.FirstOrDefault(x => x.Id == writerId);
+            var findWriter = writerClasses.FirstOrDefault(x => x.Id == writerid);
             var jsonWriters = JsonConvert.SerializeObject(findWriter);
             return Json(jsonWriters);
         }
+
         [HttpPost]
-        public IActionResult AddWriter(WriterClass w)
+        public IActionResult AddWriter(WriterClass writerClass)
         {
-            Writers.Add(w);
-            var jsonWriters = JsonConvert.SerializeObject(w);
+            writerClasses.Add(writerClass);
+            var jsonWriters = JsonConvert.SerializeObject(writerClass);
             return Json(jsonWriters);
         }
-        [HttpPost]
+
         public IActionResult DeleteWriter(int id)
         {
-            var writer = Writers.FirstOrDefault(x => x.Id == id);
-            Writers.Remove(writer);
+            var writer = writerClasses.FirstOrDefault(x => x.Id == id);
+            writerClasses.Remove(writer);
             return Json(writer);
-            //return Ok(); // Bu da dönebilirdi
         }
-        public IActionResult UpdateWriter(WriterClass writerModel)
+
+        public IActionResult UpdateWriter(WriterClass writerClass)
         {
-            var writer = Writers.FirstOrDefault(x => x.Id == writerModel.Id);
-            writer.Name = writerModel.Name;
-            var jsonWriter = JsonConvert.SerializeObject(writerModel);
+            var writer = writerClasses.FirstOrDefault(x => x.Id == writerClass.Id);
+            writer.Name = writerClass.Name;
+            var jsonWriter = JsonConvert.SerializeObject(writerClass);
             return Json(jsonWriter);
         }
-        public static List<WriterClass> Writers = new List<WriterClass>
+
+        public static List<WriterClass> writerClasses = new List<WriterClass>
         {
             new WriterClass
             {
                 Id=1,
-                Name="Burak"
+                Name="Ali"
             },
             new WriterClass
             {
                 Id=2,
-                Name="Murat"
+                Name="Veli"
             },
             new WriterClass
             {
