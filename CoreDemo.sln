@@ -5,13 +5,15 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreDemo", "CoreDemo\CoreDemo.csproj", "{AC5D0206-888E-4C67-9781-1A342B98E5F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{F7D45244-C439-4335-9674-7E1FB0A65111}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EntityLayer", "EntityLayer\EntityLayer.csproj", "{F7D45244-C439-4335-9674-7E1FB0A65111}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{5112F284-DDAE-4E62-A77F-3338DFFF0B95}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DataAccessLayer", "DataAccessLayer\DataAccessLayer.csproj", "{5112F284-DDAE-4E62-A77F-3338DFFF0B95}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{D15C7D16-FC9C-43CD-81AD-763EA3E6567B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BusinessLayer", "BusinessLayer\BusinessLayer.csproj", "{D15C7D16-FC9C-43CD-81AD-763EA3E6567B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLayer", "CoreLayer\CoreLayer.csproj", "{86FD28F6-D8D4-40C0-9801-503C39AABD99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoreLayer", "CoreLayer\CoreLayer.csproj", "{86FD28F6-D8D4-40C0-9801-503C39AABD99}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlogAPIDemo", "BlogAPIDemo\BlogAPIDemo.csproj", "{42EA7A8C-35CF-4EDF-817F-53C44F705C57}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{86FD28F6-D8D4-40C0-9801-503C39AABD99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86FD28F6-D8D4-40C0-9801-503C39AABD99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86FD28F6-D8D4-40C0-9801-503C39AABD99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42EA7A8C-35CF-4EDF-817F-53C44F705C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42EA7A8C-35CF-4EDF-817F-53C44F705C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42EA7A8C-35CF-4EDF-817F-53C44F705C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42EA7A8C-35CF-4EDF-817F-53C44F705C57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
