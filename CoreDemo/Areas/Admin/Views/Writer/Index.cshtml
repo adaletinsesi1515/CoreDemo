@@ -68,7 +68,8 @@
                 data: { writerid: id },
                 success: function (func) {
                     let w = jQuery.parseJSON(func);
-                    console.log(w);
+                    console.log(w); 
+                    // ` --> (bu işaret Alt Gr ve X ile birlikte çıkıyor)
                     let getValue = `<table class=table table-bordered><tr><th>Yazar ID</th><th>Yazar Adı</th></tr><tr><td>${w.Id}</td><td>${w.Name}</td></tr></table>`;
                     $("#writerGet").html(getValue);
                 }
