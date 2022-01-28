@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "d:\\source\\repos\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "d:\\source\\repos\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\source\\repos\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "d:\\source\\repos\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "d:\\source\\repos\\CoreDemo\\DataAccessLayer\\obj\\",
+        "projectPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj",
+        "packagesPath": "C:\\Users\\Memduh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Memduh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "d:\\source\\repos\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-                "projectPath": "d:\\source\\repos\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+              "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+                "projectPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
               }
             }
           }
@@ -80,21 +80,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "d:\\source\\repos\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+    "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\source\\repos\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+        "projectUniqueName": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
         "projectName": "EntityLayer",
-        "projectPath": "d:\\source\\repos\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
-        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-        "outputPath": "d:\\source\\repos\\CoreDemo\\EntityLayer\\obj\\",
+        "projectPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj",
+        "packagesPath": "C:\\Users\\Memduh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Memduh\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -134,7 +134,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }

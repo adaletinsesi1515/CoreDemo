@@ -55,3 +55,4 @@ d:\source\repos\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.CoreCompile
 d:\source\repos\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.dll
 d:\source\repos\CoreDemo\CoreLayer\obj\Debug\net6.0\ref\CoreLayer.dll
 d:\source\repos\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.pdb
+C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\CoreLayer\obj\Debug\net6.0\CoreLayer.csproj.AssemblyReference.cache

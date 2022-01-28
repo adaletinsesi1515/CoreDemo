@@ -127,3 +127,4 @@ d:\source\repos\CoreDemo\BlogAPIDemo\obj\Debug\net6.0\BlogAPIDemo.dll
 d:\source\repos\CoreDemo\BlogAPIDemo\obj\Debug\net6.0\ref\BlogAPIDemo.dll
 d:\source\repos\CoreDemo\BlogAPIDemo\obj\Debug\net6.0\BlogAPIDemo.pdb
 d:\source\repos\CoreDemo\BlogAPIDemo\obj\Debug\net6.0\BlogAPIDemo.genruntimeconfig.cache
+C:\Users\Memduh\source\repos\adaletinsesi1515\CoreDemo\BlogAPIDemo\obj\Debug\net6.0\BlogAPIDemo.csproj.AssemblyReference.cache

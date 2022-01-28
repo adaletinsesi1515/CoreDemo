@@ -9799,19 +9799,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\pc\\.nuget\\packages\\": {}
+    "C:\\Users\\Memduh\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "d:\\source\\repos\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+      "projectUniqueName": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
       "projectName": "CoreDemo",
-      "projectPath": "d:\\source\\repos\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
-      "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "d:\\source\\repos\\CoreDemo\\CoreDemo\\obj\\",
+      "projectPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
+      "packagesPath": "C:\\Users\\Memduh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\CoreDemo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Memduh\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9825,14 +9825,14 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "d:\\source\\repos\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
-              "projectPath": "d:\\source\\repos\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj"
+            "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj": {
+              "projectPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\BusinessLayer\\BusinessLayer.csproj"
             },
-            "d:\\source\\repos\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "d:\\source\\repos\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "d:\\source\\repos\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
-              "projectPath": "d:\\source\\repos\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
+            "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj": {
+              "projectPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\EntityLayer\\EntityLayer.csproj"
             }
           }
         }
@@ -9910,7 +9910,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
