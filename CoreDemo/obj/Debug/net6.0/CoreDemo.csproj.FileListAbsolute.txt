@@ -1380,3 +1380,12 @@ d:\source\repos\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.dll
 d:\source\repos\CoreDemo\CoreDemo\obj\Debug\net6.0\ref\CoreDemo.dll
 d:\source\repos\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.pdb
 d:\source\repos\CoreDemo\CoreDemo\obj\Debug\net6.0\CoreDemo.genruntimeconfig.cache
+d:\source\repos\CoreDemo\CoreDemo\bin\Debug\net6.0\BlogAPIDemo.deps.json
+d:\source\repos\CoreDemo\CoreDemo\bin\Debug\net6.0\BlogAPIDemo.runtimeconfig.json
+d:\source\repos\CoreDemo\CoreDemo\bin\Debug\net6.0\BlogAPIDemo.exe
+d:\source\repos\CoreDemo\CoreDemo\bin\Debug\net6.0\Microsoft.OpenApi.dll
+d:\source\repos\CoreDemo\CoreDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+d:\source\repos\CoreDemo\CoreDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+d:\source\repos\CoreDemo\CoreDemo\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+d:\source\repos\CoreDemo\CoreDemo\bin\Debug\net6.0\BlogAPIDemo.dll
+d:\source\repos\CoreDemo\CoreDemo\bin\Debug\net6.0\BlogAPIDemo.pdb

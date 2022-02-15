@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\BlogAPIDemo\\BlogAPIDemo.csproj": {}
+    "d:\\source\\repos\\CoreDemo\\BlogAPIDemo\\BlogAPIDemo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\BlogAPIDemo\\BlogAPIDemo.csproj": {
+    "d:\\source\\repos\\CoreDemo\\BlogAPIDemo\\BlogAPIDemo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\BlogAPIDemo\\BlogAPIDemo.csproj",
+        "projectUniqueName": "d:\\source\\repos\\CoreDemo\\BlogAPIDemo\\BlogAPIDemo.csproj",
         "projectName": "BlogAPIDemo",
-        "projectPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\BlogAPIDemo\\BlogAPIDemo.csproj",
-        "packagesPath": "C:\\Users\\Memduh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Memduh\\source\\repos\\adaletinsesi1515\\CoreDemo\\BlogAPIDemo\\obj\\",
+        "projectPath": "d:\\source\\repos\\CoreDemo\\BlogAPIDemo\\BlogAPIDemo.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "d:\\source\\repos\\CoreDemo\\BlogAPIDemo\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Memduh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -83,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
